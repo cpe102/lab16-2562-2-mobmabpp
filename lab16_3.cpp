@@ -1,4 +1,4 @@
-#include<iostream>
+0#include<iostream>
 #include<cstdlib>
 #include<ctime>
 #include<vector>
@@ -21,4 +21,15 @@ int main(){
 	return 0;
 }
 
-//Write Definition of randomVector() showVector() and dotProduct() here
+vector<int> randomVector(int x){
+	vector<int> KK(5)
+	for(int i=0;i<x;i++){
+		rand()
+	}
+}
+void showVector(vector<int>showVector){
+
+}
+int dotProduct(vector<int>,vector<int>K){
+
+}
